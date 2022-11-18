@@ -4,5 +4,5 @@
 - 📖 I have experience  with Reactjs, Nextjs, Graphql and other technologies 
 - 📫 How to reach me ...
 - 📱 call me || WhatsApp +0201026454879
-- 📧 Email =>  mohamedsaadyelnagar@gmail.com ||  mohamed.elnagar@knawat.com   
+- 📧 Email =>  mohamedsaadyelnagar@gmail.com   
 - Linkedin => https://www.linkedin.com/in/mohamed-elnagar-1b2070a2/
